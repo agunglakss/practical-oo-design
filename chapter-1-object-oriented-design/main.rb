@@ -1,0 +1,1 @@
+print "This chapter only discusses about Object Oriented Design"
